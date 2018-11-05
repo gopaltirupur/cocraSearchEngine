@@ -1,0 +1,75 @@
+/* 
+    Document   : csstemp
+    Created on : Jan 7, 2014, 8:54:28 PM
+    Author     : cynete-lap
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+.link 
+{
+    font-size: 18pt;
+    font-weight: bold;
+    color: blue;
+    margin: 0pt;
+    
+}
+
+.slink
+{
+   text-indent: 20pt;
+   font-size: 12pt;
+   color: green;
+   margin: 0pt;
+}
+
+.desc
+{
+   text-indent: 20pt;
+   font-size: 14pt;
+   color: black; 
+   margin: 0pt;
+}
+
+.tab
+{
+    margin-bottom: 10pt;
+    
+    padding-bottom: 2pt;
+    padding-left: 2pt;
+    padding-right: 2pt;
+    padding-top: 2pt;
+    
+    border-bottom-style: solid;
+    border-bottom-width: 2pt;
+    border-right-style: solid;
+    border-right-width: 1pt;
+    
+}
+
+.strike
+{
+   color: red;
+   text-decoration: line-through;
+   margin-bottom: 0pt;
+   line-break: auto;
+   display: inline;
+   
+}
+
+.avail
+{
+   font-weight: bold;
+   color: green;
+   margin-bottom: 0pt;
+   display: inline;
+   line-break: auto;
+   
+}
+
+.pcount
+{
+ color: grey;
+ font-size: 10pt;
+}
